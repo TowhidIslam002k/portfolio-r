@@ -1,0 +1,17 @@
+.hero-section {
+    padding: 100px 0 50px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.page-title {
+    padding: 100px 0 50px;
+    background: #f8f9fa;
+}
+
+.card {
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
